@@ -1,0 +1,20 @@
+.title {
+  font-size: 22px;
+  color: #000;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.news_container {
+  background-color: whitesmoke;
+}
+
+.description {
+  color: #000;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+  font-size: 18px;
+  line-height: 22px;;
+
+}
